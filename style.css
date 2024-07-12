@@ -1,0 +1,59 @@
+.heading-wrapper{
+    display: flex;
+    background-color: #3f3e3e;
+    color: white;
+    border-top-style: groove;
+    margin-top: 23px;
+}
+.logo{
+    display: flex;
+    width: 40%;
+    font-size: 45px;
+    margin-top: 20px;
+    margin-left: 45px;
+    text-transform: capitalize;
+
+}
+.menu{
+    display: flex;
+    list-style: none;
+    list-style: none;
+    width: 60%;
+    margin-top: 42px;
+    margin-left: 477px;
+    gap: 44px;
+    font-size: 22px;
+    text-transform: capitalize;
+}
+.content-wrapper{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 50px;
+    text-transform: capitalize;
+    color: white;
+}
+#first-button{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 22px;
+    border-radius: 10px;
+    border-color: white;
+    color: white;
+}
+#second-button{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+}
+.container{
+    background-image:url(camera.png.jpg);
+    background-position: center;
+    background-size: cover;
+}
